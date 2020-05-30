@@ -5,4 +5,4 @@
 + Criar um divisor de conta
 
 ## Screenshot
-![] (/screenshot.png)
+![](/WeSplit/screenshot.png)

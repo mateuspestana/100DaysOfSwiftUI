@@ -4,13 +4,13 @@
 
 + Criar um conversor de unidades
 
-[](https://www.hackingwithswift.com/100/swiftui/19)
+[Day 19 - Challenge 1](https://www.hackingwithswift.com/100/swiftui/19)
 
 Criei um conversor de temperaturas (Celsius, Fahrenheit e Kelvin) sem usar a API de "Unit and Measurement" do Swift.
 
 ## Screenshot
 
-![](/screenshot.png)
+![](/TempConverter/screenshot.png)
 
 ## Estrutura
 
